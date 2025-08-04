@@ -48,7 +48,7 @@ A desktop-based Bank Management System built using Java Swing for GUI, MySQL for
 
 2. **Setup MySQL Database**
    - Create a database named: `bankmanagementsystem`
-   - Use the table names shown in the screenshots:
+   - Use the table names :
      - `login`, `signup`, `signupthree`, `signuptwo`, `bank`
    - Insert initial test data (sample login, transactions)
 
